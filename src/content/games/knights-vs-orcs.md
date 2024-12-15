@@ -1,8 +1,8 @@
 ---
 id: "2"
-title: "Knight Defense"
+title: "Knights vs Orcs"
 description: "Command your forces in this strategic defense game! Lead knights, archers, and workers to protect your king from waves of menacing orcs and goblins."
-slug: "knight-defense"
+slug: "knights-vs-orcs"
 author: "Filip Jerga"
 video: https://www.youtube.com/watch?v=m0GHS-HV1RI
 coverImage: "https://thrangra.sirv.com/KD_Cover.jpeg"
@@ -31,13 +31,13 @@ itchIoId: "1"
 appStoreId: "2"
 playStoreId: "3"
 ---
-Knight Defense is an engaging real-time strategy game that puts you in command of a medieval kingdom under siege. Your primary mission is to protect your king from relentless waves of orcs while managing resources and commanding various units strategically.
+Knights vs Orcs is an engaging real-time strategy game that puts you in command of a medieval kingdom under siege. Your primary mission is to protect your king from relentless waves of orcs while managing resources and commanding various units strategically.
 
 ## Game Controls
 The game features intuitive touch controls designed specifically for mobile devices. Simply tap to select units and tap again to designate their destination or target. This straightforward control scheme ensures smooth gameplay while managing multiple units and resources.
 
 ## Gameplay Overview
-In Knight Defense, survival depends on your ability to balance resource gathering with military might. Your worker units are essential for collecting gold from mines and harvesting wood from trees. These resources are crucial for constructing defensive towers and training military units at your castle.
+In Knights vs Orcs, survival depends on your ability to balance resource gathering with military might. Your worker units are essential for collecting gold from mines and harvesting wood from trees. These resources are crucial for constructing defensive towers and training military units at your castle.
 
 ## Units and Buildings
 
@@ -59,7 +59,7 @@ Face off against two distinct enemy types:
 - **Demolishers**: Dangerous ranged units that throw explosive dynamite
 
 ## Resource Management
-Success in Knight Defense requires careful management of two key resources:
+Success in Knights vs Orcs requires careful management of two key resources:
 - **Gold**: Mined from gold deposits by worker units
 - **Wood**: Harvested from trees by worker units
 
@@ -68,7 +68,7 @@ The game offers clear victory and defeat conditions:
 - **Victory**: Successfully defend against all enemy waves
 - **Defeat**: Your king falls in battle
 
-## Why Play Knight Defense?
+## Why Play Knights vs Orcs?
 - **Strategic Depth**: Balance resource gathering, unit production, and defensive positioning
 - **Dynamic Gameplay**: Each wave brings new challenges requiring adaptive tactics
 - **Simple Controls**: Intuitive touch controls make complex strategy accessible
